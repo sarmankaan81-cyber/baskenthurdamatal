@@ -3,10 +3,11 @@
 > Başkent Hurda Metal (Ankara Başkent Hurda Metal), Ankara Yenimahalle Kuzey Yıldızı Mahallesi 4051 Sokak No:9/A adresinde metal hurda alımı yapan işletmedir. Hurda demir, bakır, alüminyum, sarı pirinç, kablo, beyaz eşya, krom (paslanmaz) ve çinko alır; Ankara'nın 16 ilçe ve semtiyle telefon (0533 411 34 99) ve WhatsApp üzerinden görüşür. Fiyat; metalin cinsine, temizliğine, miktarına ve günlük piyasaya göre konuşulur.
 
 - Telefon / WhatsApp: 0533 411 34 99 (+905334113499)
-- Adres: Kuzey Yıldızı Mah. 4051 Sk. No:9/A, Yenimahalle / Ankara
+- Adres: Kuzey Yıldızı Mah. 4051 Sk. No:9/A, Yenimahalle / Ankara (40.0400422, 32.7778332)
 - E-posta: info@baskenthurdamatal.com.tr
 - Hizmet bölgeleri: Yenimahalle, Demetevler, Keçiören, Etlik, Altındağ, Ulus, Çankaya, Kızılay, Dikmen, Çayyolu, İncek, Gölbaşı, Etimesgut, Sincan, Pursaklar, Kahramankazan
 - Fiyat: Hurdanın cinsine ve miktarına göre telefonda veya WhatsApp'tan fotoğrafla konuşulur.
+- Kapıda ödeme
 
 ## Sayfalar
 - [Ana sayfa](https://baskenthurdamatal.com.tr/): Alınan hurdalar, hizmet bölgeleri, nasıl çalışır, SSS, iletişim
